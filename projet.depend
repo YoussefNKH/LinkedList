@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1650902548 source:d:\c\liste\projet\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"list.h"
+
+1650902548 d:\c\liste\projet\list.h
+
+1650740821 source:d:\c\liste\projet\list.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"list.h"
+
